@@ -8,6 +8,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @EnableScheduling
 @EnableJpaAuditing
 @SpringBootApplication
+
 public class IntellijUltimateWeek041Application {
 
     public static void main(String[] args) {
