@@ -1,4 +1,4 @@
-package com.sparta.intellij_ultimate_week041.models;
+package com.sparta.intellij_ultimate_week041.dto;
 
 import lombok.Getter;
 
@@ -6,3 +6,4 @@ import lombok.Getter;
 public class ProductMypriceRequestDto {
     private int myprice;
 }
+
